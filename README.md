@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm an earthling descended from my mom /n
-The tech industry has Go-Pro /n
+I'm an earthling descended from my mom <br>
+The tech industry has Go-Pro <br>
 I'm No-Pro and .... hmmm ... I don't know, thanks for reading <3
 <!--
 **DokuSan00/DokuSan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
