@@ -7,7 +7,7 @@ I'm fluent in Vietnamese and am highly proficient in English. In addition, I'm c
 
 ### My Knowledge:
 #### Programming Langues:
-<div styles="background-color:white">
+<div>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 </div>
