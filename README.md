@@ -8,8 +8,8 @@ I'm fluent in Vietnamese and am highly proficient in English. In addition, I'm c
 ### My Knowledge:
 #### Programming Langues:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML?logo=HTML5">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 <!--
 **DokuSan00/DokuSan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
