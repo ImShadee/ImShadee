@@ -3,7 +3,7 @@
 I'm a graduated Computer Science. I'm a general programmer, learning to fulfill my childhood dream to become a Game Developer. 
 I have strong passion for video games since I was young, and want to one day make my own game where everybody could enjoy or perhaps to make them suffer like FromSoftware.
 
-I'm fluent in Vietnamese and am highly proficient in English. In addition, I'm currently learning French
+I'm fluent in Vietnamese and advanced in English. In addition, j'apprends francais 😄 Il est tres difficile
 <!--
 **DokuSan00/DokuSan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
